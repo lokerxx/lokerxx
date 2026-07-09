@@ -8,12 +8,6 @@ I hold the following certifications:
 * OSCP
 * CRTO
 
-## 🔍 Research Interests
-
-My current research interests include:
-
-* Windows Security
-* macOS Security
 
 ## 🌐 Personal Page
 
